@@ -42,6 +42,19 @@ I am a part of The HackClub, and I made this HackPad for the event "BLUEPRINT". 
 # Bom
 <img width="1919" height="881" alt="{D8C16B4C-4953-4367-8D92-22000B4ED9FB}" src="https://github.com/user-attachments/assets/6b685b2a-5069-4fec-a578-06b58849568f" />
 
+## 🧾 Bill of Materials (BOM)
+
+| Item                     | Quantity |  Price              |
+|--------------------------|----------|----------------------------|
+| M2 Screws (10–12 mm)     | As needed| ----    |
+| 0.91" OLED Display       | 1        | -----   |
+| MX Style Switches        | 11       | ----- |
+| SK6812 Mini RGB LEDs     | 11       | ----      |
+| 1N4148 Diodes            | 11       | ------  |
+| PCB                      | 1        | ~$10.19 USD                |
+| 3D Printed Case (Top)    | 1        | ----          |
+| 3D Printed Case (Bottom) | 1        | ---           |
+
 Note8 I am using   qmk firmware, although I have just started to learn about it.
 
 
