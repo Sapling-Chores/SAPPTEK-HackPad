@@ -5,7 +5,7 @@
 ### This is a Cyberpunk Themed HackPad Containing 11 programmable keys with cool LEDs and a 0.93 inch oled.
 
 # Why I made this project?
-I am a part of The HackClub, and I made this HackPad for the event "BLUEPRINT". And since I am Very big Fan of 'CyberPunk EdgeRunner', I made CyberPunk themed HackPad.
+I am a part of The HackClub, and I made this HackPad for the event "BLUEPRINT". And since I am Very big Fan of 'CyberPunk EdgeRunner', I chosed CyberPunk themed HackPad.
 
 # Specification-
 * This HackPad uses an small sized XIAO RP2040 DIP Microcontroller to control switches.
