@@ -42,6 +42,8 @@ I am a part of The HackClub, and I made this HackPad for the event "BLUEPRINT". 
 # Bom
 <img width="1919" height="881" alt="{D8C16B4C-4953-4367-8D92-22000B4ED9FB}" src="https://github.com/user-attachments/assets/6b685b2a-5069-4fec-a578-06b58849568f" />
 
+Note8 I am using   qmk firmware, although I have just started to learn about it.
+
 
 
 
