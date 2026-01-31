@@ -57,6 +57,12 @@ I am a part of The HackClub, and I made this HackPad for the event "BLUEPRINT". 
 
 Note* I am using   qmk firmware, although I have just started to learn about it.
 
+## Tools I used :
+
+* Kicad for pcb and shematics
+* fusion 360 for casedesigning
+* qmk msys and vs code studio for firmware.
+
 
 
 
