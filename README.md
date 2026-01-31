@@ -59,9 +59,9 @@ Note* I am using   qmk firmware, although I have just started to learn about it.
 
 ## Tools I used :
 
-* Kicad for pcb and shematics
-* fusion 360 for casedesigning
-* qmk msys and vs code studio for firmware.
+* Kicad (for pcb and shematics)
+* Fusion 360 (for case designing)
+* Qmk msys and VS code studio (for firmware.)
 
 
 
