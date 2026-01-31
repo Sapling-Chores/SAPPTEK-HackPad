@@ -55,7 +55,7 @@ I am a part of The HackClub, and I made this HackPad for the event "BLUEPRINT". 
 | 3D Printed Case (Top)    | 1        | ----          |
 | 3D Printed Case (Bottom) | 1        | ---           |
 
-Note8 I am using   qmk firmware, although I have just started to learn about it.
+Note* I am using   qmk firmware, although I have just started to learn about it.
 
 
 
