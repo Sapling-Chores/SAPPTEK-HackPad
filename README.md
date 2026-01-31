@@ -21,12 +21,14 @@ I am a part of The HackClub, and I made this HackPad for the event "BLUEPRINT". 
 
 ## Schematics:
 
-<img width="1324" height="842" alt="{8168E7B7-EEBB-4773-9F22-A99CFA1C804B}" src="https://github.com/user-attachments/assets/0b06b03b-80a1-4cec-9af6-28a8ad14d4ea" />
+<img width="1456" height="852" alt="{F556B93D-C9B1-4B0F-BC0B-CE8516121E68}" src="https://github.com/user-attachments/assets/54912781-0aa0-490d-a534-613334634254" />
+
 
 ## PCB:
 
 
-<img width="1575" height="801" alt="{B1458E0F-583F-47C5-B7BA-CAEA342BC96D}" src="https://github.com/user-attachments/assets/cec745e8-7252-4c6f-aa20-2fe4efac3470" />
+
+<img width="1577" height="806" alt="{80FC2CA7-981B-419E-984A-9AB917072C0E}" src="https://github.com/user-attachments/assets/ef3a6928-4ccc-4a93-9f33-64df9f3237bd" />
 
 ## Case:
 
