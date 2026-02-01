@@ -1,4 +1,4 @@
-## This is  a file of most of the images of updates and edits I went through during my projects (ignore if you dont want to feel the ultimate pain I felt during making this project!!).
+## This is  a file contains most of the images of updates and edits I went through during my projects (ignore if you dont want to feel the ultimate pain I felt during making this project!!).
 
 
 Top2Bottom = Start to finish
