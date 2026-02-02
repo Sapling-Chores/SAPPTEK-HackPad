@@ -58,6 +58,7 @@ I am a part of The HackClub, and I made this HackPad for the event "BLUEPRINT". 
 | 3D Printed Case (Bottom) | 1        | ---           |
 
 Note* I am using   qmk firmware, although I have just started to learn about it.
+
 Note* I will connect the Oled using wire outside the pcb.
 
 ## Tools I used :
