@@ -37,6 +37,8 @@ I am a part of The HackClub, and I made this HackPad for the event "BLUEPRINT". 
 
 
 <img width="1425" height="849" alt="{1720FFFB-36E6-4F77-A775-C6D0F9038D92}" src="https://github.com/user-attachments/assets/b80247bf-ac64-4284-aa2b-57c4bb2a3016" />
+<img width="1454" height="861" alt="image" src="https://github.com/user-attachments/assets/52f463c5-c7c9-47f3-a4b0-0f97a9d50bca" />
+
 
 
 <img width="1421" height="845" alt="{74DB9BEF-D5CB-4AB7-BD2E-DE090822D0B3}" src="https://github.com/user-attachments/assets/f47961f3-1450-479c-9cad-2e2f4f3ddca5" />
