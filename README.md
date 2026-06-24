@@ -5,7 +5,6 @@
 
 [![alt text](Assets/Build_Image-Mode_Pink.jpeg)](https://www.youtube.com/shorts/_ePr5tWmdso)
 
-<iframe width="951" height="535" src="https://www.youtube.com/embed/_ePr5tWmdso" title="Just Made a macropad!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # SAPPTEK-HackPad
 ### This is a Cyberpunk Themed HackPad Containing 11 programmable keys with cool LEDs and a 0.93 inch oled.
